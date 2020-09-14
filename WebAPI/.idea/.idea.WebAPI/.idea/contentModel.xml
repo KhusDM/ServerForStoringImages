@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\husnetdinovdr\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\husnetdinovdr\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\husnetdinovdr\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\husnetdinovdr\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_WebAPI.-2015189007.00" t="ExcludeRecursive" />
+    <e p="C:\Users\husnetdinovdr\Documents\tempProjects\ASGM36\WebAPI" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="WebAPI" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="TicketStallSignatureController.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="Signature.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="WebAPI.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="WebAPI.csproj" t="IncludeRecursive" />
+        <e p="wwwroot" t="Include">
+          <e p="signatures" t="Include">
+            <e p="signature_b3c04618-5ac1-460d-9772-6669c57d9513.png" t="Include" />
+            <e p="signature_cf55aee7-128b-4206-bbfe-066ff6691671.png" t="Include" />
+            <e p="signature_d765dfd5-d3b2-4e4c-a2da-7f850d0f885e.png" t="Include" />
+            <e p="signature_f5f0c8d4-d146-43ff-8732-ec03a74687ef.png" t="Include" />
+            <e p="signature_f938df96-2927-464a-9ef2-72a835b6e0f4.png" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="WebAPI.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

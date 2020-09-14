@@ -1,0 +1,30 @@
+.main {
+  display: flex;
+  justify-content: center;
+  font-family: sans-serif;
+  flex-direction: column;
+}
+
+.paint-canvas {
+  border: 10px dodgerblue solid;
+  align-self: center;
+}
+
+.paint-canvas-label {
+  align-self: center;
+}
+
+.paint-canvas-buttons-container {
+  align-self: center;
+  margin: 1em;
+}
+
+.paint-canvas-button {
+  margin: 1em;
+  width: 10em;
+  height: 3em;
+  background: dodgerblue;
+  color: white;
+  border-radius: 1em;
+  border-color: white;
+}
